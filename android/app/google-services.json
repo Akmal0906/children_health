@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087871042735",
+    "project_id": "childrenhealth-2c18b",
+    "storage_bucket": "childrenhealth-2c18b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087871042735:android:d8e8647b752f63c758405a",
+        "android_client_info": {
+          "package_name": "com.example.children_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087871042735-uk9vdc0a16o38oi4det2c919e6sqlif3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbu4fYpwRUpxr4HRKJapBZcsFQxYIRQyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087871042735-uk9vdc0a16o38oi4det2c919e6sqlif3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
